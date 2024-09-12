@@ -1,10 +1,14 @@
-# About
+# Suryadipto Sarkar, MS | [Scholar](https://scholar.google.com/citations?user=I8mJjvsAAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/suryadipto-sarkar-ab1593197/?originalSubdomain=de)
 
-This is a repository that contains information on how to reproduce results corresponding to the *cutaneous T cell lymphoma (CTCL)* case study reported in [Spatial cell graph analysis reveals skin tissue organization characteristic for cutaneous T cell lymphoma](https://paper-doi-when-available).
+PhD Candidate at FAU Erlangen, Bavaria, Germany. Due to submit dissertation by the end of Feb 2024.
+
+
+
+
 
 <!------------------>
 
-# Data
+# Personal information
 
 ## Overview
 
