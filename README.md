@@ -1,38 +1,82 @@
-# Suryadipto Sarkar, MS | [Scholar](https://scholar.google.com/citations?user=I8mJjvsAAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/suryadipto-sarkar-ab1593197/?originalSubdomain=de)
+# SURYADIPTO SARKAR, MS | [Scholar](https://scholar.google.com/citations?user=I8mJjvsAAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/suryadipto-sarkar-ab1593197/?originalSubdomain=de)
 
 PhD Candidate at FAU Erlangen, Bavaria, Germany. Due to submit his PhD dissertation by the end of Feb 2024.
 
 
-
-
-
-<!------------------>
-
-# Personal information
+# PERSONAL INFORMATION
 
 ## Address
 
 Bayreutherstrasse 51, 91054 Erlangen, Bavaria, Germany ([directions](https://www.google.com/maps/place/Bayreuther+Str.+51,+91054+Erlangen/@49.6070816,10.9994195,17z/data=!3m1!4b1!4m6!3m5!1s0x47a1f93b60729999:0xf86688c63a61b700!8m2!3d49.6070816!4d11.0019944!16s%2Fg%2F11kpz_xbh7?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D))
 
-## Availability
+## Contact number
 
-Complete data available publicly over [Zenodo](https://doi.org/10.5281/zenodo.11125482). For the purpose of conserving memory, each of the images have been down-scaled to 512 X 512 pixels from their original resolution of 2018 X 2018 pixels.
++49-15121585083
 
-## Description
+## Email ID
 
-The [repository](https://doi.org/10.5281/zenodo.11125482) follows the following data structure:
+FAU: suryadipto.sarkar@fau.de
 
-1. File **data\_description.xlsx**: Provides information pertaining to *PatientID*, *SampleNumber* and *Condition*; this file has been color coded per condition for improved readability.
+ASU: ssarka34@asu.edu
 
-2. File **additional\_metadata.xlsx**: Provides additional information pertaining to the samples specified in **data\_description.xlsx**.
+Personal: ssarkarmanipal@gmail.com
 
-3. Directories **/AD**, **/PSO** and **/CTCL**: Folders containing the respective samples specified in **data\_description.xlsx** and **additional\_metadata.xlsx**. The sub directory organizations are self explanatory---they are of the form: **/Condition/PatientID\_<patientID>/SampleNumber\_<sampleNumber>/**. Each sample contains at least 35 .tif images, each corresponding to a (protein channel, dye) combination.
 
-<!------------------>
+# ACADEMIC QUALIFICATION
 
-# Installation
+ **PhD Candidate**, Friedrich-Alexander University of Erlangen-Nuremberg, Erlangen, Bavaria, Germany
 
-Install conda environment as follows (there also exists a requirements.txt)
+ **Master of Science in Computer Engineering**, Arizona State University, Tempe, AZ, USA, May 2021, CGPA: 3.73/4
+
+**Bachelor of Technology in Electronics and Communication Engineering**, Manipal Institute of Technology, Manipal, affiliated to Manipal University, Manipal, India, June 2016, CGPA: 7.99/10
+
+
+
+# PROFESSIONAL EXPERIENCE
+
+ **Junior Developer**, TEK Systems Global Services – Allegis Group, Bengaluru, India, August 2016 - January 2018
+
+ **Trainee Engineer**, TEK Systems Global Services – Allegis Group, Bengaluru, India, January 2016 – May 2016
+
+
+# ARTICLES UNDER REVIEW & ACCEPTED ARTICLES (first author)PROFESSIONAL EXPERIENCE
+
+(***Responding to round 1 revisions*** at [Nature NPJ Systems Biology and Applications](https://www.nature.com/npjsba/)) Sarkar, Suryadipto, et al. "Spatial cell graph analysis reveals skin tissue organization characteristic for cutaneous T cell lymphoma." bioRxiv (2024): 2024-05. ([preprint access here](https://www.biorxiv.org/content/10.1101/2024.05.17.594629v1.abstract))
+
+(***Accepted with minor revisions*** at [MDPI Biomedicines](https://www.mdpi.com/journal/biomedicines), still in the process of being published) Sarkar, Suryadipto, et al. "A Transfer Learning-Based Framework for Classifying Lymph Node Metastasis in Prostate Cancer Patients." **(will be available online soon)**
+
+
+
+# PUBLISHED ARTICLES (first author)
+
+Sarkar, Suryadipto, et al. "Performing automatic identification and staging of urothelial carcinoma in bladder cancer patients using a hybrid deep-machine learning approach." Cancers 15.6 (2023): 1673. ([access here](https://www.mdpi.com/2072-6694/15/6/1673))
+
+Sarkar, Suryadipto, et al. "Online bias-aware disease module mining with ROBUST-Web." Bioinformatics 39.6 (2023): btad345. ([access here](https://academic.oup.com/bioinformatics/article/39/6/btad345/7180269))
+
+Sarkar, Suryadipto, et al. "An advanced particle swarm optimization based feature selection method for tri-script handwritten digit recognition." Computational Intelligence, Communications, and Business Analytics: Second International Conference, CICBA 2018, Kalyani, India, July 27–28, 2018, Revised Selected Papers, Part I 2. Springer Singapore, 2019. ([access here](https://link.springer.com/chapter/10.1007/978-981-13-8578-0_7))
+
+[**Treatment response** – [Journal of Clinical Oncology](https://ascopubs.org/journal/jco)] Ikram, Waleed, et al. "Staging and chemotherapy response assessment of bladder cancer using hybrid deep machine learning model on CT scan images." (2022): e16550-e16550. ([access here](https://ascopubs.org/doi/abs/10.1200/JCO.2022.40.16_suppl.e16550))
+
+
+
+
+
+
+# CO-AUTHORED PUBLISHED ARTICLES
+
+Fu, Yinlin, et al. "Gaussian mixture model with feature selection: An embedded approach." Computers & Industrial Engineering 152 (2021): 107000. ([access here](https://www.sciencedirect.com/science/article/pii/S0360835220306707?casa_token=XvzhD0Vmu6wAAAAA:uOLzxgEGcGEkp0ecwJl-ACs56MIoK_z8nzDkz8EOKscTZaAtGEO9g4NQ-wKCCpogjdFgu-52Tio))
+
+Xu, Yanzhe, et al. "U-net with optimal thresholding for small blob detection in medical images." 2019 IEEE 15th International Conference on Automation Science and Engineering (CASE). IEEE, 2019. ([access here](https://ieeexplore.ieee.org/abstract/document/8843234?casa_token=32Y0A1rGAL0AAAAA:5pdyOCRqW9yhL9SWUhz9wkSCMOs6uXWu3uDNSVom3VaDZjGfSMDdI2QahzDOSSAyx6aT2VXHyWw))
+
+Maier, Andreas, et al. "Drugst. One—a plug-and-play solution for online systems medicine and network-based drug repurposing." Nucleic Acids Research (2024): gkae388. ([access here](https://academic.oup.com/nar/article/52/W1/W481/7680613))
+
+
+
+
+
+<!------------------> 
+
+# Install conda environment as follows (there also exists a requirements.txt)
 ```bash
 conda create --name ctcl_case_study
 conda activate ctcl_case_study
