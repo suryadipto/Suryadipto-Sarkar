@@ -1,6 +1,6 @@
 # Suryadipto Sarkar, MS | [Scholar](https://scholar.google.com/citations?user=I8mJjvsAAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/suryadipto-sarkar-ab1593197/?originalSubdomain=de)
 
-PhD Candidate at FAU Erlangen, Bavaria, Germany. Due to submit dissertation by the end of Feb 2024.
+PhD Candidate at FAU Erlangen, Bavaria, Germany. Due to submit his PhD dissertation by the end of Feb 2024.
 
 
 
@@ -10,9 +10,9 @@ PhD Candidate at FAU Erlangen, Bavaria, Germany. Due to submit dissertation by t
 
 # Personal information
 
-## Overview
+## Address
 
-As described in our [preprint](https://doi.org/10.1101/2024.05.17.594629), the data used for our analyses comprised a total of 69 skin tissue samples (21 CTCL, 23 AD, 25 PSO), obtained from 27 treated patients (8 CTCL, 7 AD, 12 PSO). Each sample contained at least 35 images protein channels, each of resolution 2018 X 2018.
+Bayreutherstrasse 51, 91054 Erlangen, Bavaria, Germany ([directions](https://www.google.com/maps/place/Bayreuther+Str.+51,+91054+Erlangen/@49.6070816,10.9994195,17z/data=!3m1!4b1!4m6!3m5!1s0x47a1f93b60729999:0xf86688c63a61b700!8m2!3d49.6070816!4d11.0019944!16s%2Fg%2F11kpz_xbh7?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D))
 
 ## Availability
 
